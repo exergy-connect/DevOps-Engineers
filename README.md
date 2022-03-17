@@ -9,6 +9,11 @@ A collaboration effort to iteratively solve engineering problems together
 The jury was impressed by his technological contributions and vision, and welcomed his promise to promote and encourage his behavior for the benefit of society at large.
 
 ##
+![image](https://user-images.githubusercontent.com/2031627/158848768-d9c1c684-9d84-4ba0-bb60-4128d602699b.png)
+
+Consider [this story on Organizational Mechanics](https://www.squawkpoint.com/2016/07/trail-and-error/): After various trials and errors (449 iterations to be exact), people were able to improve the performance of a soap nozzle exponentially.
+
+
 
 
 
@@ -16,3 +21,6 @@ The jury was impressed by his technological contributions and vision, and welcom
 * [Will this ‘ocean battery’ buried in the seabed be an offshore wind game changer?](https://electrek.co/2022/01/10/will-this-ocean-battery-buried-in-the-seabed-be-an-offshore-wind-game-changer/)
 * [Batteries Buried at the Bottom of the Ocean May Give Wind Energy a Vital Boost](https://interestingengineering.com/batteries-buried-at-the-bottom-of-the-ocean-for-wind-energy-storage)
 * [Ocean Grazer sees energy storage as final piece of energy transition puzzle](https://www.offshore-energy.biz/ocean-grazer-sees-energy-storage-as-final-piece-of-energy-transition-puzzle/)
+* [What to think of that award-winning Dutch Ocean Battery?](https://www.wattisduurzaam.nl/38139/energie-opslaan/reservoirs/what-to-think-of-that-award-winning-dutch-ocean-battery/)
+* The [PhD@sea program](https://www.offshorewind.biz/2020/02/06/dutch-research-council-awards-eur-1-1-million-for-offshore-wind-study/)
+* [Carnegie wins European Wave Energy Contract](https://hotcopper.com.au/threads/ann-carnegie-wins-european-wave-energy-contract.6473528/)
