@@ -19,9 +19,16 @@ Consider [this story on Organizational Mechanics](https://www.squawkpoint.com/20
 ## An engineer's perspective on Ocean Grazer
 In ["What to think of that award-winning Dutch Ocean Battery?"](https://www.wattisduurzaam.nl/38139/energie-opslaan/reservoirs/what-to-think-of-that-award-winning-dutch-ocean-battery/) Thijs ten Brink shares his opinion. His conclusion neatly summarizes the article: "All in all, I find it hard to grasp that Ocean Grazer has been selected to represent the Netherlands at CES2022, hard to grasp that the jury at this event was impressed by the startup and hard to grasp that the national and international press is so wildly enthusiastic about this concept"
 
-## A call to action
+## A call for action and collaboration
+Having considered all of the above, I think one thing is abundantly clear: Marijn could use our help.
 
+✅ We all need solutions that solve variability of green energy availability to better match supply with demand
+✅ Ocean Grazer has presented a concrete step in that direction (soap nozzle prototype #1)
+✅ There are many ways in which these concepts could be improved
 
+You are invited to use the tooling in front of you - i.e. GitHub - to contribute to this cause. Submit PRs to add references or reasons to change something, create issues to discuss certain points about the project that you are concerned about, or have solutions for.
+
+Let's collaborate to improve the Ocean Grazer energy storage concept by 100x (or any factor you like)
 
 ## References
 * [Will this ‘ocean battery’ buried in the seabed be an offshore wind game changer?](https://electrek.co/2022/01/10/will-this-ocean-battery-buried-in-the-seabed-be-an-offshore-wind-game-changer/)
