@@ -9,3 +9,8 @@ A collaboration effort to iteratively solve engineering problems together
 The jury was impressed by his technological contributions to society, and welcomed his promise to promote and encourage his behavior for the benefit of society at large.
 
 ##
+
+
+
+## References
+* [Will this ‘ocean battery’ buried in the seabed be an offshore wind game changer?](https://electrek.co/2022/01/10/will-this-ocean-battery-buried-in-the-seabed-be-an-offshore-wind-game-changer/)
