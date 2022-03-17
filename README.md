@@ -22,9 +22,9 @@ In ["What to think of that award-winning Dutch Ocean Battery?"](https://www.watt
 ## A call for action and collaboration
 Having considered all of the above, I think one thing is abundantly clear: Marijn could use our help.
 
-✅ We all need solutions that solve variability of green energy availability to better match supply with demand
-✅ Ocean Grazer has presented a concrete step in that direction (soap nozzle prototype #1)
-✅ There are many ways in which these concepts could be improved
+✅ We all need solutions that solve variability of green energy availability to better match supply with demand<br>
+✅ Ocean Grazer has presented a concrete step in that direction (soap nozzle prototype #1)<br>
+✅ There are many ways in which these concepts could be improved<br>
 
 You are invited to use the tooling in front of you - i.e. GitHub - to contribute to this cause. Submit PRs to add references or reasons to change something, create issues to discuss certain points about the project that you are concerned about, or have solutions for.
 
