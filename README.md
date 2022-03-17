@@ -13,7 +13,13 @@ The jury was impressed by his technological contributions and vision, and welcom
 
 Consider [this story on Organizational Mechanics](https://www.squawkpoint.com/2016/07/trail-and-error/): After various trials and errors (449 iterations to be exact), people were able to improve the performance of a soap nozzle exponentially.
 
+## How thinking about a child affects its success
+[This article](https://www.squawkpoint.com/2014/04/below-standard-performance-rating/) explains the science behind the common sense: If you think positively, you are more likely to see a positive outcome (in a virtuous spiral)
 
+## An engineer's perspective on Ocean Grazer
+In ["What to think of that award-winning Dutch Ocean Battery?"](https://www.wattisduurzaam.nl/38139/energie-opslaan/reservoirs/what-to-think-of-that-award-winning-dutch-ocean-battery/) Thijs ten Brink shares his opinion. His conclusion neatly summarizes the article: "All in all, I find it hard to grasp that Ocean Grazer has been selected to represent the Netherlands at CES2022, hard to grasp that the jury at this event was impressed by the startup and hard to grasp that the national and international press is so wildly enthusiastic about this concept"
+
+## A call to action
 
 
 
