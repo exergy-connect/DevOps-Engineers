@@ -1,35 +1,22 @@
 # Extracted from https://oceangrazer.com/wp-content/uploads/2022/01/Ocean-Battery-Magazine-A4-media.pdf?
 
 ##
-OCEAN
-BATTERY
-The Solution for the
-Global Energy Storage
-problem
-Powered by
-Eco-friendly Underwater Energy Storage
-Soon, weather conditions will dictate the timing of
-renewable energy production, causing large fluctuations.
-Oversupply, resulting in negative energy prices and
-eventually blackouts, will create a huge market for large
-scale energy storage.
-The Ocean Battery is an offshore energy storage system
-that can be deployed at the source of power generation.
-Managing the flow of electricity through the power grid
-and balancing supply and demand.
-Who wants to sell at
-Negative Energy Prices?
-Balancing Supply and Demand
-Large scale energy storage transforms wind, solar and
-tidal energy will be transformed into dispatchable power
-plants with the Ocean Battery. This allows to generate
-power when we need it. The ultimate solution to prevent
-oversupply and hence negative energy prices. Curtailment
-will no longer be needed. Our solution can significantly
-improve the profitability of your renewable energy project.
-An exponentially growing market in excess of 200 B$.
-2
-Black start Power
+# OCEAN BATTERY: The Solution for the Global Energy Storage problem
+## Powered by Eco-friendly Underwater Energy Storage
+
+Soon, weather conditions will dictate the timing of renewable energy production, causing large fluctuations.
+Oversupply, resulting in negative energy prices and eventually blackouts, will create a huge market for large
+scale energy storage. The Ocean Battery is an offshore energy storage system that can be deployed at the source of power generation.
+Managing the flow of electricity through the power grid and balancing supply and demand.
+Who wants to sell at Negative Energy Prices?
+
+## Balancing Supply and Demand
+Large scale energy storage transforms wind, solar and tidal energy will be transformed into dispatchable power
+plants with the Ocean Battery. This allows to generate power when we need it. The ultimate solution to prevent
+oversupply and hence negative energy prices. Curtailment will no longer be needed. Our solution can significantly
+improve the profitability of your renewable energy project. An exponentially growing market in excess of 200 B$.
+
+# Black start Power
 By the year 2050 the offshore power generation will exceed 1200 GW. This equals 25% of
 the global power generation capacity today! It means we will build offshore a completely
 new power grid. This power grid will however be unlike anything we have built before. It
@@ -38,9 +25,8 @@ simultaneously during storms. Excess generation will overload the grid resulting
 instabilities and blackouts. Our solution can prevent peak loads and provide the crucial
 black start power in case the unfortunate thing happened. How do you plan to deal with
 this challenge in the transition towards a sustainable energy system?
-3
-OCEAN
-BATTERY
+
+# OCEAN BATTERY
 At Ocean Grazer we transformed pumped hydro storage technology into a storage solution
 that is embedded into the seabed with identical functionality and performance. With one big
 difference the hydrostatic pressure comes for free, we don’t need to build an entire hydro dam.
